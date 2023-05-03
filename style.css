@@ -1,0 +1,30 @@
+#h11{
+    text-align: center;
+    text-decoration-color: blueviolet;
+    text-shadow: 0cqb;
+    text-decoration-style: wavy;
+    font-style: italic;
+}
+#h31{
+    text-align: center;
+    text-decoration-color: blueviolet;
+    text-shadow: 0cqb;
+    font-style: oblique;
+}
+body{
+    background-color: black;
+}
+#d1{
+    background-color: rgb(18, 178, 241);
+    width: 600px;
+    border: 30px;
+    padding: 100px;
+    margin: 40px;
+}
+#Print{
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    text-decoration-color: slateblue;
+    text-shadow: white;
+}
